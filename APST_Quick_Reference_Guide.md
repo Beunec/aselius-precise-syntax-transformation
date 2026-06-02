@@ -1,6 +1,7 @@
 # APST Quick Reference Guide
 ## Aselius Precise Snippet Transformation
 
+- Created owned by Beunec Technologies, Inc. All Rights Reserved.
 
 **One-page summary for quick lookups**
 
