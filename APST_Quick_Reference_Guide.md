@@ -230,8 +230,7 @@ if (result) {
 
 - **Full Technical Docs:** `APST_Technical_Documentation.md`
 - **Educational Primer:** `APST_Educational_Primer.md`
-- **Implementation:** `src/ai/opencanvasaiservice.ts`
-- **Research Contact:** research@aselius.ai
+- **Research Contact:** info@beunec.com
 
 ---
 
